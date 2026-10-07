@@ -28,4 +28,4 @@ Download `Evaluating-Coding-Systems-Audit-Manual.pdf` and open it in any PDF rea
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file
+This work is licensed under the Creative Commons Attribution 4.0 International License .See the [LICENSE] file for details.
